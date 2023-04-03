@@ -7,3 +7,6 @@ git commit -m "message" => moving stage files to local repository
 git clone=> exact copy of remote repository to local space
 git push => local space to remote repository
 git pull =>	remote repository to local space
+
+
+git remote add name remote_path
