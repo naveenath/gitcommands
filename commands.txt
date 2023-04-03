@@ -10,3 +10,4 @@ git pull =>	remote repository to local space
 
 
 git remote add name remote_path
+git remote -v => list all remote names
